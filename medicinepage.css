@@ -1,7 +1,8 @@
 
         body {
             margin: 0;
-            font-family: Arial, sans-serif;
+            font-family: cursive;
+            font-style: italic;
             background-color: #E6F5FC;
             color: #333;
         }
@@ -71,8 +72,8 @@
             font-weight: bold;
         }
 
-        .medication-card .retail-price {
-            color: #888;
+        .medication-card  h2 {
+            color:#D9534F;
             text-decoration: line-through;
         }
 
@@ -85,7 +86,6 @@
             padding: 10px 20px;
             background-color: #0077C0;
             color: #FFF;
-            text-decoration: none;
             border-radius: 5px;
             font-weight: bold;
         }
